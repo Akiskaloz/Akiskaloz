@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Akiskaloz
-- 👀 I’m interested in software development, QA
+- 👀 I’m interested in network engineering, software development, QA
 - 🌱 I’m currently learning the same above
 - 💞️ I’m looking to gain experience in Python, automation and AI implementation.
 
