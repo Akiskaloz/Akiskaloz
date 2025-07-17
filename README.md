@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Akiskaloz
 - 👀 I’m interested in software development, QA
 - 🌱 I’m currently learning the same above
-- 💞️ I’m looking to gain experience mainly in QA Automation
+- 💞️ I’m looking to gain experience in Python, automation and AI implementation.
 
 <!---
 Akiskaloz/Akiskaloz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
